@@ -3,7 +3,9 @@
   <div class="wrapper-outer section-hero-image">
     <ul class="slider-hero-image">
       <li class="slider-hero-image__item">
-        <div class="wrapper-inner slider-hero-image__item-content">
+        <div
+          class="wrapper-inner slider-hero-image__item-content vertical-indent vertical-indent--l"
+        >
           <h2>PLAN YOUR LIFE</h2>
           <div class="subtitle">Increase your <span>productivity</span></div>
           <div class="text">

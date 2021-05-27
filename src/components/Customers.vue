@@ -1,7 +1,7 @@
 <template>
   <!-- customers -->
   <div class="wrapper-outer section-customers">
-    <div class="wrapper-inner">
+    <div class="wrapper-inner vertical-indent vertical-indent--m">
       <h2 class="visually-hidden">CUSTOMERS</h2>
       <a href="#" aria-label="BitBucket"
         ><img src="../assets/upload/bitbucket.svg" alt=""
@@ -30,8 +30,8 @@ export default {};
 <style lang="scss" scoped>
 .section-customers {
   .wrapper-inner {
-    padding-top: $padding-vertical-sm;
-    padding-bottom: $padding-vertical-sm;
+    // padding-top: $padding-vertical-sm;
+    // padding-bottom: $padding-vertical-sm;
 
     display: flex;
     align-items: center;
@@ -43,6 +43,18 @@ export default {};
 
       &:hover {
         opacity: 1;
+      }
+    }
+
+    @media (max-width: $breakpoint-xs-max) {
+      flex-wrap: wrap;
+      justify-content: center;
+
+      a {
+        flex-basis: 45%;
+        margin-top: $base * 3;
+        margin-bottom: $base * 3;
+        text-align: center;
       }
     }
   }

@@ -1,7 +1,9 @@
 <template>
   <!-- footer -->
   <div class="wrapper-outer section-footer">
-    <div class="wrapper-inner wrapper-inner--wide">
+    <div
+      class="wrapper-inner wrapper-inner--wide vertical-indent vertical-indent--m"
+    >
       <div class="main-navigation">
         <h1 class="logo">
           <a class="logo__link" href="#" aria-label="Logo"></a>
@@ -137,8 +139,8 @@ export default {};
 <style lang="scss" scoped>
 .section-footer {
   .wrapper-inner {
-    padding-top: $padding-vertical-sm;
-    padding-bottom: $padding-vertical-sm;
+    // padding-top: $padding-vertical-sm;
+    // padding-bottom: $padding-vertical-sm;
   }
 }
 </style>

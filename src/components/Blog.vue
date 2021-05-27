@@ -1,7 +1,7 @@
 <template>
   <!-- blog -->
   <div class="wrapper-outer section-blog">
-    <div class="wrapper-inner">
+    <div class="wrapper-inner vertical-indent vertical-indent--l">
       <h2 class="text-center">OUR RESOURCES</h2>
       <div class="subtitle text-center">Start reading our blog</div>
       <div class="slider-wrapper">

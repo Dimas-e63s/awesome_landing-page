@@ -1,7 +1,9 @@
 <template>
   <!-- header -->
   <section class="wrapper-outer section-header">
-    <div class="wrapper-inner wrapper-inner--wide">
+    <div
+      class="wrapper-inner wrapper-inner--wide vertical-indent vertical-indent--s"
+    >
       <div class="main-navigation">
         <h1 class="logo">
           <a class="logo__link" href="#" aria-label="Logo"></a>
@@ -140,8 +142,8 @@ export default {};
 .section-header {
   position: relative;
   .wrapper-inner {
-    padding-top: $padding-vertical-xs;
-    padding-bottom: $padding-vertical-xs;
+    // padding-top: $padding-vertical-xs;
+    // padding-bottom: $padding-vertical-xs;
   }
 }
 </style>

@@ -1,7 +1,7 @@
 <template>
   <!-- get-started -->
   <div class="wrapper-outer section-get-started">
-    <div class="wrapper-inner">
+    <div class="wrapper-inner vertical-indent vertical-indent--l">
       <h2 class="text-center">PLAN YOUR LIFE</h2>
       <div class="subtitle text-center">Get <span>started</span> now</div>
       <div class="text">

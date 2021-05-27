@@ -1,7 +1,7 @@
 <template>
   <!-- plan-and-manage -->
   <div class="wrapper-outer section-plan-and-manage">
-    <div class="wrapper-inner">
+    <div class="wrapper-inner vertical-indent vertical-indent--l">
       <div class="section-plan-and-manage__content">
         <img src="@/assets/plan.png" alt="" class="aside-image" />
         <h2>DESKTOP AND MOBILE APP</h2>

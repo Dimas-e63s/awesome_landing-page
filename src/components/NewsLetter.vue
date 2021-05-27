@@ -1,7 +1,7 @@
 <template>
   <!-- news-letter -->
   <div class="wrapper-outer section-newsletter">
-    <div class="wrapper-inner">
+    <div class="wrapper-inner vertical-indent vertical-indent--l">
       <div class="section-newsletter__left">
         <h2 class="section-newsletter__left-title">Sign up for newsletter</h2>
         <div class="section-newsletter__left-text">

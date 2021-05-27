@@ -1,7 +1,7 @@
 <template>
   <!-- faq -->
   <div class="wrapper-outer section-faq">
-    <div class="wrapper-inner">
+    <div class="wrapper-inner vertical-indent vertical-indent--l">
       <h2 class="text-center">CUSTOMER HELP</h2>
       <div class="subtitle text-center">Frequently asked questions</div>
       <ul class="faq-accordion">

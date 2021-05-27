@@ -1,7 +1,7 @@
 <template>
   <!-- quotes -->
   <div class="wrapper-outer section-quotes">
-    <div class="wrapper-inner">
+    <div class="wrapper-inner vertical-indent vertical-indent--l">
       <div class="section-quotes__left">
         <h2>TESTIMONIALS</h2>
         <div class="subtitle">Customers's quotes</div>
